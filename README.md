@@ -44,7 +44,7 @@ Ensure you have a modern web browser installed (e.g., Google Chrome, Firefox).
    </body>
    </html>
 
-   ## Functions
+## Functions
 
 - **`setToRandom(scale)`**: Returns an object with random x and y values scaled by the provided scale.
 - **`makePac()`**: Factory function to create and display a PacMan on the screen.
